@@ -1,2 +1,1 @@
-# Luminious-BOt
-A powerfull bot
+## Join our discord https://discord.gg/XgfWAEwggT
